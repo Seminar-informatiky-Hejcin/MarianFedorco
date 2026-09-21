@@ -1,0 +1,10 @@
+/Users/marianfedorco/Library/CloudStorage/OneDrive-Gymnázium,Olomouc-Hejčín/1  School files/VI.A6/C#/AreaCircumference/bin/Debug/net10.0/AreaCircumference
+/Users/marianfedorco/Library/CloudStorage/OneDrive-Gymnázium,Olomouc-Hejčín/1  School files/VI.A6/C#/AreaCircumference/bin/Debug/net10.0/AreaCircumference.dll
+/Users/marianfedorco/Library/CloudStorage/OneDrive-Gymnázium,Olomouc-Hejčín/1  School files/VI.A6/C#/AreaCircumference/bin/Debug/net10.0/AreaCircumference.pdb
+/Users/marianfedorco/Library/CloudStorage/OneDrive-Gymnázium,Olomouc-Hejčín/1  School files/VI.A6/C#/AreaCircumference/obj/Debug/net10.0/AreaCircumference.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marianfedorco/Library/CloudStorage/OneDrive-Gymnázium,Olomouc-Hejčín/1  School files/VI.A6/C#/AreaCircumference/obj/Debug/net10.0/AreaCircumference.AssemblyInfoInputs.cache
+/Users/marianfedorco/Library/CloudStorage/OneDrive-Gymnázium,Olomouc-Hejčín/1  School files/VI.A6/C#/AreaCircumference/obj/Debug/net10.0/AreaCircumference.AssemblyInfo.cs
+/Users/marianfedorco/Library/CloudStorage/OneDrive-Gymnázium,Olomouc-Hejčín/1  School files/VI.A6/C#/AreaCircumference/obj/Debug/net10.0/AreaCircumference.csproj.CoreCompileInputs.cache
+/Users/marianfedorco/Library/CloudStorage/OneDrive-Gymnázium,Olomouc-Hejčín/1  School files/VI.A6/C#/AreaCircumference/obj/Debug/net10.0/AreaCircumference.dll
+/Users/marianfedorco/Library/CloudStorage/OneDrive-Gymnázium,Olomouc-Hejčín/1  School files/VI.A6/C#/AreaCircumference/obj/Debug/net10.0/refint/AreaCircumference.dll
+/Users/marianfedorco/Library/CloudStorage/OneDrive-Gymnázium,Olomouc-Hejčín/1  School files/VI.A6/C#/AreaCircumference/obj/Debug/net10.0/AreaCircumference.pdb

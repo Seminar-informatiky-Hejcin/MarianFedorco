@@ -1,0 +1,10 @@
+/Users/marianfedorco/Library/CloudStorage/OneDrive-Gymnázium,Olomouc-Hejčín/1  School files/VI.A6/C#/NumberStatistics/bin/Debug/net10.0/NumberStatistics
+/Users/marianfedorco/Library/CloudStorage/OneDrive-Gymnázium,Olomouc-Hejčín/1  School files/VI.A6/C#/NumberStatistics/bin/Debug/net10.0/NumberStatistics.dll
+/Users/marianfedorco/Library/CloudStorage/OneDrive-Gymnázium,Olomouc-Hejčín/1  School files/VI.A6/C#/NumberStatistics/bin/Debug/net10.0/NumberStatistics.pdb
+/Users/marianfedorco/Library/CloudStorage/OneDrive-Gymnázium,Olomouc-Hejčín/1  School files/VI.A6/C#/NumberStatistics/obj/Debug/net10.0/NumberStatistics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marianfedorco/Library/CloudStorage/OneDrive-Gymnázium,Olomouc-Hejčín/1  School files/VI.A6/C#/NumberStatistics/obj/Debug/net10.0/NumberStatistics.AssemblyInfoInputs.cache
+/Users/marianfedorco/Library/CloudStorage/OneDrive-Gymnázium,Olomouc-Hejčín/1  School files/VI.A6/C#/NumberStatistics/obj/Debug/net10.0/NumberStatistics.AssemblyInfo.cs
+/Users/marianfedorco/Library/CloudStorage/OneDrive-Gymnázium,Olomouc-Hejčín/1  School files/VI.A6/C#/NumberStatistics/obj/Debug/net10.0/NumberStatistics.csproj.CoreCompileInputs.cache
+/Users/marianfedorco/Library/CloudStorage/OneDrive-Gymnázium,Olomouc-Hejčín/1  School files/VI.A6/C#/NumberStatistics/obj/Debug/net10.0/NumberStatistics.dll
+/Users/marianfedorco/Library/CloudStorage/OneDrive-Gymnázium,Olomouc-Hejčín/1  School files/VI.A6/C#/NumberStatistics/obj/Debug/net10.0/refint/NumberStatistics.dll
+/Users/marianfedorco/Library/CloudStorage/OneDrive-Gymnázium,Olomouc-Hejčín/1  School files/VI.A6/C#/NumberStatistics/obj/Debug/net10.0/NumberStatistics.pdb
