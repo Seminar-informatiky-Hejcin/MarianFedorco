@@ -26,7 +26,7 @@ class Program
                 continue;
             }
             Console.Write("Computed value: ");
-            Console.WriteLine(factorial(num));
+            Console.WriteLine();
         }
     }
 
@@ -40,5 +40,35 @@ class Program
         {
             return 1;
         }
+    }
+}
+
+
+
+public interface IFactorial
+{
+    int Calculate(int n);
+}
+
+public class FactorialWithRecursion : IFactorial
+{
+    public int Calculate(int n)
+    {
+        if (n > 0)
+        {
+            return n * Calculate(n-1);
+        }
+        else
+        {
+            return 1;
+        }
+    }
+}
+
+public class IterativeFactorial : IFactorial
+{
+    public int Calculate(int n)
+    {
+        return n;
     }
 }

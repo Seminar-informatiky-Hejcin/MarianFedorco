@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/marianfedorco/Library/CloudStorage/OneDrive-Gymnázium,Olomouc-Hejčín/1  School files/VI.A6/C#/NumberStatistics/NumberStatistics.csproj",
+      "projectUniqueName": "/Users/marianfedorco/Library/CloudStorage/OneDrive-Gymnázium,Olomouc-Hejčín/1  School files/VI.A6/IVT/C#/NumberStatistics/NumberStatistics.csproj",
       "projectName": "NumberStatistics",
-      "projectPath": "/Users/marianfedorco/Library/CloudStorage/OneDrive-Gymnázium,Olomouc-Hejčín/1  School files/VI.A6/C#/NumberStatistics/NumberStatistics.csproj",
+      "projectPath": "/Users/marianfedorco/Library/CloudStorage/OneDrive-Gymnázium,Olomouc-Hejčín/1  School files/VI.A6/IVT/C#/NumberStatistics/NumberStatistics.csproj",
       "packagesPath": "/Users/marianfedorco/.nuget/packages/",
-      "outputPath": "/Users/marianfedorco/Library/CloudStorage/OneDrive-Gymnázium,Olomouc-Hejčín/1  School files/VI.A6/C#/NumberStatistics/obj/",
+      "outputPath": "/Users/marianfedorco/Library/CloudStorage/OneDrive-Gymnázium,Olomouc-Hejčín/1  School files/VI.A6/IVT/C#/NumberStatistics/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/marianfedorco/.nuget/NuGet/NuGet.Config"

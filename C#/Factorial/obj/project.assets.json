@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/marianfedorco/Library/CloudStorage/OneDrive-Gymnázium,Olomouc-Hejčín/1  School files/VI.A6/C#/Factorial/Factorial.csproj",
+      "projectUniqueName": "/Users/marianfedorco/Library/CloudStorage/OneDrive-Gymnázium,Olomouc-Hejčín/1  School files/VI.A6/IVT/C#/Factorial/Factorial.csproj",
       "projectName": "Factorial",
-      "projectPath": "/Users/marianfedorco/Library/CloudStorage/OneDrive-Gymnázium,Olomouc-Hejčín/1  School files/VI.A6/C#/Factorial/Factorial.csproj",
+      "projectPath": "/Users/marianfedorco/Library/CloudStorage/OneDrive-Gymnázium,Olomouc-Hejčín/1  School files/VI.A6/IVT/C#/Factorial/Factorial.csproj",
       "packagesPath": "/Users/marianfedorco/.nuget/packages/",
-      "outputPath": "/Users/marianfedorco/Library/CloudStorage/OneDrive-Gymnázium,Olomouc-Hejčín/1  School files/VI.A6/C#/Factorial/obj/",
+      "outputPath": "/Users/marianfedorco/Library/CloudStorage/OneDrive-Gymnázium,Olomouc-Hejčín/1  School files/VI.A6/IVT/C#/Factorial/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/marianfedorco/.nuget/NuGet/NuGet.Config"

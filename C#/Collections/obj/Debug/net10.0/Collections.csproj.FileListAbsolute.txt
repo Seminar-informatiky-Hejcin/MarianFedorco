@@ -1,0 +1,11 @@
+/Users/marianfedorco/Library/CloudStorage/OneDrive-Gymnázium,Olomouc-Hejčín/1  School files/VI.A6/IVT/C#/Collections/bin/Debug/net10.0/Collections
+/Users/marianfedorco/Library/CloudStorage/OneDrive-Gymnázium,Olomouc-Hejčín/1  School files/VI.A6/IVT/C#/Collections/bin/Debug/net10.0/Collections.dll
+/Users/marianfedorco/Library/CloudStorage/OneDrive-Gymnázium,Olomouc-Hejčín/1  School files/VI.A6/IVT/C#/Collections/bin/Debug/net10.0/Collections.pdb
+/Users/marianfedorco/Library/CloudStorage/OneDrive-Gymnázium,Olomouc-Hejčín/1  School files/VI.A6/IVT/C#/Collections/obj/Debug/net10.0/Collections.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marianfedorco/Library/CloudStorage/OneDrive-Gymnázium,Olomouc-Hejčín/1  School files/VI.A6/IVT/C#/Collections/obj/Debug/net10.0/Collections.AssemblyInfoInputs.cache
+/Users/marianfedorco/Library/CloudStorage/OneDrive-Gymnázium,Olomouc-Hejčín/1  School files/VI.A6/IVT/C#/Collections/obj/Debug/net10.0/Collections.AssemblyInfo.cs
+/Users/marianfedorco/Library/CloudStorage/OneDrive-Gymnázium,Olomouc-Hejčín/1  School files/VI.A6/IVT/C#/Collections/obj/Debug/net10.0/Collections.csproj.CoreCompileInputs.cache
+/Users/marianfedorco/Library/CloudStorage/OneDrive-Gymnázium,Olomouc-Hejčín/1  School files/VI.A6/IVT/C#/Collections/obj/Debug/net10.0/Collections.sourcelink.json
+/Users/marianfedorco/Library/CloudStorage/OneDrive-Gymnázium,Olomouc-Hejčín/1  School files/VI.A6/IVT/C#/Collections/obj/Debug/net10.0/Collections.dll
+/Users/marianfedorco/Library/CloudStorage/OneDrive-Gymnázium,Olomouc-Hejčín/1  School files/VI.A6/IVT/C#/Collections/obj/Debug/net10.0/refint/Collections.dll
+/Users/marianfedorco/Library/CloudStorage/OneDrive-Gymnázium,Olomouc-Hejčín/1  School files/VI.A6/IVT/C#/Collections/obj/Debug/net10.0/Collections.pdb

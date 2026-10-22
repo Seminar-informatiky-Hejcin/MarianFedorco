@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/marianfedorco/Library/CloudStorage/OneDrive-Gymnázium,Olomouc-Hejčín/1  School files/VI.A6/C#/AreaCircumference/AreaCircumference.csproj": {}
+    "/Users/marianfedorco/Library/CloudStorage/OneDrive-Gymnázium,Olomouc-Hejčín/1  School files/VI.A6/IVT/C#/AreaCircumference/AreaCircumference.csproj": {}
   },
   "projects": {
-    "/Users/marianfedorco/Library/CloudStorage/OneDrive-Gymnázium,Olomouc-Hejčín/1  School files/VI.A6/C#/AreaCircumference/AreaCircumference.csproj": {
+    "/Users/marianfedorco/Library/CloudStorage/OneDrive-Gymnázium,Olomouc-Hejčín/1  School files/VI.A6/IVT/C#/AreaCircumference/AreaCircumference.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/marianfedorco/Library/CloudStorage/OneDrive-Gymnázium,Olomouc-Hejčín/1  School files/VI.A6/C#/AreaCircumference/AreaCircumference.csproj",
+        "projectUniqueName": "/Users/marianfedorco/Library/CloudStorage/OneDrive-Gymnázium,Olomouc-Hejčín/1  School files/VI.A6/IVT/C#/AreaCircumference/AreaCircumference.csproj",
         "projectName": "AreaCircumference",
-        "projectPath": "/Users/marianfedorco/Library/CloudStorage/OneDrive-Gymnázium,Olomouc-Hejčín/1  School files/VI.A6/C#/AreaCircumference/AreaCircumference.csproj",
+        "projectPath": "/Users/marianfedorco/Library/CloudStorage/OneDrive-Gymnázium,Olomouc-Hejčín/1  School files/VI.A6/IVT/C#/AreaCircumference/AreaCircumference.csproj",
         "packagesPath": "/Users/marianfedorco/.nuget/packages/",
-        "outputPath": "/Users/marianfedorco/Library/CloudStorage/OneDrive-Gymnázium,Olomouc-Hejčín/1  School files/VI.A6/C#/AreaCircumference/obj/",
+        "outputPath": "/Users/marianfedorco/Library/CloudStorage/OneDrive-Gymnázium,Olomouc-Hejčín/1  School files/VI.A6/IVT/C#/AreaCircumference/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/marianfedorco/.nuget/NuGet/NuGet.Config"
