@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="AreaCircumference/AreaCircumference.csproj" />
+  <Project Path="Collections/Collections.csproj" />
   <Project Path="Factorial/Factorial.csproj" />
   <Project Path="NumberStatistics/NumberStatistics.csproj" />
   <Project Path="CaesarCypher/CaesarCypher.csproj" />
